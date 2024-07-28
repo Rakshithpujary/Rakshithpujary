@@ -67,8 +67,10 @@
 
 ###
 
+### GitHub Activity Graph:
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rakshithpujary/Rakshithpujary/main/github-activity-graph.svg" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rakshithpujary&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
 ###
