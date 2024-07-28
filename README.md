@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">- 🌱 Currently I'm expanding my knowledge in: 🗄️ SQL Server, ☁️ AWS <br>- 📄 Want to know more about my experiences and skills? Take a look at<a href="https://drive.google.com/file/d/1JvPboxFLQ9hBNOXuuL9VypG_D-HKPCal/view?usp=sharing" target="_blank">Resume</a><br>- 📫 How to Reach Me at <a href="mailto:rakshithpoojary248@gmail.com" target="_blank">rakshithpoojary248@gmail.com</a><br>- 🤝 I'm passionate about collaborating on innovative projects and contributing to the tech community.</h4>
+<h4 align="left">- 🌱 Currently I'm expanding my knowledge in: 🗄️ SQL Server, ☁️ AWS <br>- 📄 Want to know more about my experiences and skills? Take a look at <a href="https://drive.google.com/file/d/1JvPboxFLQ9hBNOXuuL9VypG_D-HKPCal/view?usp=sharing" target="_blank">Resume</a><br>- 📫 How to Reach Me at <a href="mailto:rakshithpoojary248@gmail.com" target="_blank">rakshithpoojary248@gmail.com</a><br>- 🤝 I'm passionate about collaborating on innovative projects and contributing to the tech community.</h4>
 
 ###
 
@@ -63,9 +63,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rakshithpujary/Rakshithpujary/main/github-activity-graph.svg" alt="GitHub Activity Graph" />
-</div>
 
 ###
 
