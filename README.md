@@ -70,7 +70,7 @@
 ### GitHub Activity Graph:
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rakshithpujary&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Rakshithpujary&theme=github" alt="GitHub Activity Graph" />
 </div>
 
 ###
