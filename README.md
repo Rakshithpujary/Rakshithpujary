@@ -75,6 +75,14 @@
 
 ###
 
+### Wave Animation:
+
+<div align="center">
+  <!-- Insert the SVG wave code here -->
+</div>
+
+###
+
 <h3 align="left">Contact me 📫:</h3>
 
 ###
