@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">- 🌱 Currently I'm expanding my knowledge in: 🗄️ SQL Server, ☁️ AWS <br>- 📄 Want to know more about my experiences and skills? Take a look at<br>- 📫 How to Reach Me at <a href="mailto:rakshithpoojary248@gmail.com" target="_blank">rakshithpoojary248@gmail.com</a><br>- 🤝 I'm passionate about collaborating on innovative projects and contributing to the tech community.</h4>
+<h4 align="left">- 🌱 Currently I'm expanding my knowledge in: 🗄️ SQL Server, ☁️ AWS <br>- 📄 Want to know more about my experiences and skills? Take a look at<a href="https://drive.google.com/file/d/1JvPboxFLQ9hBNOXuuL9VypG_D-HKPCal/view?usp=sharing" target="_blank">Resume</a><br>- 📫 How to Reach Me at <a href="mailto:rakshithpoojary248@gmail.com" target="_blank">rakshithpoojary248@gmail.com</a><br>- 🤝 I'm passionate about collaborating on innovative projects and contributing to the tech community.</h4>
 
 ###
 
@@ -52,10 +52,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <h3 align="left">Stats:</h3>
 
 ###
@@ -67,32 +63,8 @@
 
 ###
 
-### GitHub Activity Graph:
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshithpujary&theme=dracula" alt="GitHub Activity Graph" />
-</div>
-
-###
-
-### Wave Animation:
-
-<div align="center">
-  <svg width="100%" height="200px" version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
-        <stop offset="0%" style="stop-color:rgb(33,150,243);stop-opacity:1" />
-        <stop offset="100%" style="stop-color:rgb(33,203,243);stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path fill="url(#gradient)" d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z">
-      <animate repeatCount="indefinite" attributeName="d" dur="5s" 
-        values="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z; 
-                M0,100 C200,0 300,200 500,100 L500,00 L0,0 Z; 
-                M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z">
-      </animate>
-    </path>
-  </svg>
+  <img src="https://raw.githubusercontent.com/Rakshithpujary/Rakshithpujary/main/github-activity-graph.svg" alt="GitHub Activity Graph" />
 </div>
 
 ###
