@@ -78,7 +78,21 @@
 ### Wave Animation:
 
 <div align="center">
-  <!-- Insert the SVG wave code here -->
+  <svg width="100%" height="200px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+        <stop offset="0%" style="stop-color:rgb(33,150,243);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(33,203,243);stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <path fill="url(#gradient)" d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z">
+      <animate repeatCount="indefinite" attributeName="d" dur="5s" 
+        values="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z; 
+                M0,100 C200,0 300,200 500,100 L500,00 L0,0 Z; 
+                M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z">
+      </animate>
+    </path>
+  </svg>
 </div>
 
 ###
